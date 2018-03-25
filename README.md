@@ -1,7 +1,8 @@
-"# Intensivo-Python"
+# Intensivo-Python"
 
-Lista de Exercícios do Livro Curso Intensivo de Python
-Uma introdução prática e baseada em projetos à programação
+<b>Lista de Exercícios do Livro Curso Intensivo de Python</b><br>
+<p>Uma introdução prática e baseada em projetos à programação<p>
+
 Autor: Eric Matthes
 ISBN: 978-85-7522-503-5
 Ano: 2016
